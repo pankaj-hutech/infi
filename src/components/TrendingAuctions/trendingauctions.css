@@ -1,0 +1,11 @@
+.trending .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden.mySwiper{
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-color: #7B61FF;
+    padding: 1rem 0;
+    margin: 1rem 0;
+}
+
+.card.col-lg-3.mx-3.border.border-white{
+    width:143px;
+}
